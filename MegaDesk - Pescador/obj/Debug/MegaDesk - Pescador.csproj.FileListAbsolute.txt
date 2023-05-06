@@ -1,0 +1,14 @@
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\bin\Debug\MegaDesk - Pescador.exe.config
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\bin\Debug\MegaDesk - Pescador.exe
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\bin\Debug\MegaDesk - Pescador.pdb
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk - Pescador.csproj.AssemblyReference.cache
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk - Pescador.csproj.SuggestedBindingRedirects.cache
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk___Pescador.AddQuote.resources
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk___Pescador.MainMenu.resources
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk___Pescador.Properties.Resources.resources
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk___Pescador.SearchQuotes.resources
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk___Pescador.ViewAllQuotes.resources
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk - Pescador.csproj.GenerateResource.cache
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk - Pescador.csproj.CoreCompileInputs.cache
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk - Pescador.exe
+C:\Users\e_c_p\OneDrive\Desktop\Universidad\9 Semester -10\C#.NET\MegaDesk - Pescador\MegaDesk - Pescador\obj\Debug\MegaDesk - Pescador.pdb
